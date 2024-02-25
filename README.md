@@ -1,6 +1,16 @@
 # DarkTube Server
 the api for DarkTube-Client
 
+## Clone on plateforms
+
+### Glitch
+[![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/tucommenceapousser/DarkTube-Server)
+
+### Replit
+
+[![Run on Replit](https://replit.com/badge/github/tucommenceapousser/DarkTube-Server)](https://replit.com/github/tucommenceapousser/DarkTube-Server)
+
+
 ## Installation
 
 To install and run this project, follow these steps:
